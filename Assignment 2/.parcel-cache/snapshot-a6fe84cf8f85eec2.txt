@@ -1,4 +1,4 @@
-4300
+4346
 104C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\ordered-binary\assets133763990648502091 1
 118C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\type-fest\source\readonly-deep.d.ts133763990655472090 0
 116C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\data\features\ime.js133763990673232092 0
@@ -17,12 +17,12 @@
 121C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\msgpackr\dist\index-no-eval.min.js.map133763990656272096 0
 124C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@swc\helpers\_\_object_without_properties133763990669512047 1
 121C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@parcel\utils\src\isDirectoryInside.js133763990684332830 0
-82C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\package.json133764002999809103 0
-74C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist133764003677438707 1
+82C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\package.json133764004385597452 0
+74C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist133765666201784184 1
 101C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\.package-lock.json133763998401364905 0
 123C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\posthtml\node_modules\domhandler\LICENSE133763990633602072 0
 130C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\posthtml\node_modules\domutils\lib\traversal.js133763990645362108 0
-76C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\app.js133764000944116754 0
+76C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\app.js133765666199784195 0
 105C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\color-convert\index.js133763990637062072 0
 117C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\htmlparser2\lib\esm\Tokenizer.d.ts133763990656342086 0
 80C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\index.html133764001762479391 0
@@ -390,6 +390,7 @@
 134C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\posthtml\node_modules\posthtml-parser\dist\index.js133763990635882120 0
 112C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\lmdb\dependencies\lz4\LICENSE133763990649702098 0
 115C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\term-size\vendor\macos\term-size133763990638002119 0
+96C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.ca81eacd.js.map133764951987326938 0
 91C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\posthtml133763990639172107 1
 122C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\data\features\css-fixed.js133763990664492072 0
 124C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\data\features\svg-filters.js133763990682422809 0
@@ -629,6 +630,7 @@
 112C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@swc\helpers\scripts\build.js133763990665552103 0
 115C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\update-browserslist-db\README.md133763990641552113 0
 128C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@swc\helpers\_\_get_prototype_of\package.json133763990668592110 0
+96C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.ba4d8ece.js.map133765660979236448 0
 118C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\data\features\webvr.js133763990685422786 0
 111C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\node-releases\data\processed133763990634612106 1
 100C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\msgpackr\index.js133763990649782107 0
@@ -690,6 +692,7 @@
 114C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\data\regions\LT.js133763990676212088 0
 109C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\node-releases\package.json133763990636782070 0
 132C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@parcel\runtime-js\src\helpers\bundle-manifest.js133763990647582092 0
+92C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.e8527940.js133765659177993429 0
 122C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\type-fest\source\async-return-type.d.ts133763990637862087 0
 132C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@swc\helpers\esm\_define_enumerable_properties.js133763990663092106 0
 113C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\type-fest\source\asyncify.d.ts133763990639132116 0
@@ -907,6 +910,7 @@
 115C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\domutils\lib\esm\legacy.d.ts.map133763990655812098 0
 99C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\semver\range.bnf133763990634462097 0
 119C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\msgpackr\dist\unpack-no-eval.cjs.map133763990658502081 0
+96C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.7ac96b08.js.map133764951987326938 0
 121C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\posthtml\node_modules\entities\LICENSE133763990633602072 0
 103C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\parse-json\readme.md133763990636712086 0
 118C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\data\features\fetch.js133763990670302092 0
@@ -1041,6 +1045,7 @@
 129C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb.c133763990659102107 0
 135C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\scheduler\umd\scheduler-unstable_mock.development.js133763997250863594 0
 99C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\entities\LICENSE133763990633322133 0
+96C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.d803205e.js.map133765653343125412 0
 124C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\scheduler\umd\scheduler.production.min.js133763997251113565 0
 104C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@parcel\rust\index.js133763990637992110 0
 124C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\posthtml\node_modules\htmlparser2\LICENSE133763990633612091 0
@@ -1789,6 +1794,7 @@
 131C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@parcel\transformer-babel\lib\babelErrorUtils.js133763990644732076 0
 95C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\lmdb\read.js133763990663132076 0
 136C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@swc\helpers\_\_class_private_field_init\package.json133763990667252074 0
+92C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.92a9d389.js133764004500613764 0
 99C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\lmdb\SECURITY.md133763990663712087 0
 122C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@parcel\core\test\InternalAsset.test.js133763990661072092 0
 140C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest3.c133763990659702092 0
@@ -1911,6 +1917,7 @@
 114C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\entities\lib\esm\index.d.ts.map133763990658322095 0
 134C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_dump.c133763990657672066 0
 107C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@parcel\reporter-cli\src133763990654022072 1
+92C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.ca81eacd.js133764951987076945 0
 129C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\data\features\beforeafterprint.js133763990659282061 0
 134C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_stat.1133763990655362060 0
 106C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\js-yaml\dist\js-yaml.js133763990651322076 0
@@ -2043,7 +2050,7 @@
 137C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@parcel\runtime-browser-hmr\src\loaders\hmr-runtime.js133763990647862107 0
 101C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\is-extglob\LICENSE133763990635162102 0
 106C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\is-extglob\package.json133763990633372143 0
-85C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.html133764003676009081 0
+85C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.html133765665012175423 0
 103C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\is-extglob\README.md133763990634342062 0
 108C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\is-arrayish\.editorconfig133763990640692097 0
 108C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\is-arrayish\.istanbul.yml133763990639342063 0
@@ -2195,6 +2202,7 @@
 106C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@parcel\fs\src\index.js133763990657322098 0
 129C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\data\features\css-color-adjust.js133763990663362095 0
 108C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\htmlnano\docs\sidebars.js133763990656272096 0
+92C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.4ab12c8c.js133765661469488745 0
 110C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\htmlnano\docs\versions.json133763990658422091 0
 121C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@parcel\runtime-js\lib\helpers\browser133763990657862109 1
 120C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\data\features\dataset.js133763990668692086 0
@@ -2479,7 +2487,7 @@
 114C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\data\regions\VG.js133763990684132788 0
 114C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\domhandler\lib\esm\package.json133763990642232111 0
 106C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@swc\helpers\_\_extends133763990668542092 1
-93C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.3a01df49.css133764000095954002 0
+93C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.3a01df49.css133765652704857928 0
 101C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\domelementtype\lib133763990646352123 1
 129C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\data\features\css-writing-mode.js133763990667962096 0
 105C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\domelementtype\LICENSE133763990633352092 0
@@ -2628,6 +2636,7 @@
 128C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@swc\helpers\src\_class_private_field_get.mjs133763990671822050 0
 104C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\chalk\source\index.js133763990634702105 0
 100C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\data133763990670212089 1
+96C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.92a9d389.js.map133764004501033564 0
 103C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\LICENSE133763990633942101 0
 121C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@parcel\runtime-js\src\helpers\browser133763990658142088 1
 105C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\README.md133763990686012785 0
@@ -2641,6 +2650,7 @@
 119C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\dist\unpacker\region.js133763990679852821 0
 117C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\dist\lib\supported.js133763990682342805 0
 131C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\data\features\speech-recognition.js133763990681782803 0
+96C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.e6a3c58f.js.map133765665012295432 0
 110C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\data\agents.js133763990648982097 0
 112C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\data\browsers.js133763990660052145 0
 112C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\data\features.js133763990670252080 0
@@ -2798,6 +2808,7 @@
 114C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\data\regions\SN.js133763990681462797 0
 125C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@parcel\core\src\requests\DevDepRequest.js133763990659882068 0
 123C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\data\features\es6-module.js133763990669952100 0
+92C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.a64a17a9.js133765654106474961 0
 114C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\data\regions\SO.js133763990681622799 0
 114C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\data\regions\SR.js133763990681982835 0
 120C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@parcel\transformer-babel\src\flow.js133763990651652104 0
@@ -2841,7 +2852,7 @@
 114C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@parcel\transformer-raw\LICENSE133763990636812102 0
 128C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\data\features\arrow-functions.js133763990656402088 0
 124C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@parcel\core\src\requests\AssetRequest.js133763990657612075 0
-92C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.5baa4167.js133764003677288894 0
+92C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.5baa4167.js133765666201654178 0
 103C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@swc\helpers\scripts133763990665652069 1
 138C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@swc\helpers\src\_class_check_private_static_access.mjs133763990671652075 0
 128C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\data\features\async-clipboard.js133763990656882092 0
@@ -2874,6 +2885,7 @@
 120C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\data\features\colr-v1.js133763990661752114 0
 110C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@parcel\reporter-tracer\src133763990648492108 1
 136C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\data\features\comparedocumentposition.js133763990661812084 0
+92C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.8a209b62.js133765653343015426 0
 126C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\data\features\console-basic.js133763990661872075 0
 125C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@parcel\transformer-image\lib\loadSharp.js133763990648442073 0
 134C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\data\features\constraint-validation.js133763990662012078 0
@@ -2968,6 +2980,7 @@
 120C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@swc\helpers\src\_read_only_error.mjs133763990673452097 0
 140C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\package.json133763990634102121 0
 120C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\data\features\datauri.js133763990668722110 0
+96C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.b3dddbd9.js.map133765658699179637 0
 117C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@babel\code-frame\lib\index.js.map133763990637792083 0
 123C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\data\features\decorators.js133763990668832076 0
 119C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\data\features\dialog.js133763990668952086 0
@@ -3047,6 +3060,7 @@
 107C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@parcel\cache\index.d.ts133763990651792098 0
 124C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\data\features\import-maps.js133763990673302069 0
 110C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@parcel\reporter-dev-server133763990655982087 1
+92C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.e6602159.js133765665012185415 0
 120C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\data\features\imports.js133763990673332055 0
 130C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\data\features\rtcpeerconnection.js133763990680232826 0
 117C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@swc\core-win32-x64-msvc\README.md133763990634672088 0
@@ -3125,6 +3139,7 @@
 135C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\data\features\page-transition-events.js133763990678552081 0
 127C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\data\features\pagevisibility.js133763990678592085 0
 121C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\data\features\passkeys.js133763990678642070 0
+92C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.b3dddbd9.js133765658698859638 0
 113C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@babel\code-frame\lib\index.js133763990635552092 0
 128C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\data\features\payment-request.js133763990678742097 0
 131C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@parcel\runtime-js\lib\helpers\get-worker-url.js133763990654612089 0
@@ -3176,6 +3191,7 @@
 131C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@swc\helpers\src\_ts_add_disposable_resource.mjs133763990673932070 0
 125C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@parcel\core\test\fixtures\parcel\other.js133763990661752114 0
 120C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\data\features\streams.js133763990682192809 0
+96C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.e6602159.js.map133765665012295432 0
 133C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\data\features\subresource-bundling.js133763990682282809 0
 134C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\caniuse-lite\data\features\subresource-integrity.js133763990682322810 0
 137C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@parcel\transformer-html\node_modules\srcset\readme.md133763990637022105 0
@@ -3349,7 +3365,9 @@
 137C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@swc\helpers\_\_class_static_private_field_destructure133763990667662060 1
 134C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@swc\helpers\_\_class_static_private_field_spec_get133763990667712079 1
 116C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@parcel\reporter-cli\src\utils.js133763990654102064 0
+92C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.d803205e.js133765653343005405 0
 132C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@swc\helpers\_\_class_static_private_field_update133763990667812070 1
+96C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.57ed225f.js.map133765654106848587 0
 134C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@swc\helpers\_\_create_for_of_iterator_helper_loose133763990668072084 1
 107C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@swc\helpers\_\_defaults133763990668242075 1
 127C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@swc\helpers\_\_define_enumerable_properties133763990668292066 1
@@ -3454,6 +3472,7 @@
 109C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@swc\helpers\src\index.mjs133763990674382104 0
 124C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@swc\helpers\src\_array_like_to_array.mjs133763990671062105 0
 120C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@swc\helpers\src\_async_generator.mjs133763990671232103 0
+92C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.ba4d8ece.js133765660978806446 0
 129C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@swc\helpers\src\_async_generator_delegate.mjs133763990671202085 0
 119C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@swc\helpers\src\_async_iterator.mjs133763990671272077 0
 115C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@swc\helpers\src\_call_super.mjs133763990671402108 0
@@ -3499,6 +3518,7 @@
 126C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@swc\helpers\src\_sliced_to_array_loose.mjs133763990673612092 0
 133C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@parcel\runtime-js\lib\helpers\node\wasm-loader.js133763990657982087 0
 134C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@swc\helpers\cjs\_iterable_to_array_limit_loose.cjs133763990658962085 0
+96C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.fbfb3a2a.js.map133765659178113427 0
 120C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@swc\helpers\src\_super_prop_base.mjs133763990673662087 0
 134C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@swc\helpers\src\_tagged_template_literal_loose.mjs133763990673692076 0
 113C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@swc\helpers\src\_to_array.mjs133763990673782071 0
@@ -3720,7 +3740,7 @@
 116C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@parcel\workers\lib\WorkerFarm.js133763990658432055 0
 127C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@parcel\workers\lib\threads\ThreadsWorker.js133763990657332077 0
 116C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@parcel\watcher-win32-x64\LICENSE133763990633442090 0
-96C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.5baa4167.js.map133764003677418708 0
+96C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.5baa4167.js.map133765666201764191 0
 121C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@parcel\watcher-win32-x64\watcher.node133763990647032077 0
 110C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@parcel\watcher\binding.gyp133763990653252102 0
 107C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@parcel\watcher\index.js133763990657372096 0
@@ -4004,9 +4024,10 @@
 150C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules\index.js133763990653222107 0
 121C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@parcel\packager-js\src\dev-prelude.js133763990653492099 0
 125C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@parcel\packager-js\src\ESMOutputFormat.js133763990654702117 0
-97C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.3a01df49.css.map133764000096173999 0
+97C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.3a01df49.css.map133765652704877931 0
 128C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@parcel\packager-js\src\GlobalOutputFormat.js133763990655122086 0
 115C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@parcel\packager-js\src\utils.js133763990660552082 0
+96C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.49bf2e11.js.map133765660979236448 0
 125C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@parcel\packager-js\lib\CJSOutputFormat.js133763990652592086 0
 117C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@parcel\packager-js\lib\helpers.js133763990655352077 0
 115C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\@parcel\packager-js\lib\index.js133763990655782068 0
@@ -4297,5 +4318,30 @@
 110C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\.bin\update-browserslist-db133763990905156367 0
 114C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\node_modules\.bin\update-browserslist-db.ps1133763990905136348 0
 99C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\Assignment 2.3464ddca.js133764000096324004 0
+92C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.1140b801.js133765657454757484 0
+96C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.1140b801.js.map133765657454877466 0
+93C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.11b18622.css133764004500613764 0
+97C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.11b18622.css.map133764004501013579 0
+92C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.1ea1fcba.js133765655367028716 0
+96C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.1ea1fcba.js.map133765655367148720 0
+92C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.49bf2e11.js133765660978806446 0
+96C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.4ab12c8c.js.map133765661469608744 0
+92C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.4fc0978e.js133764004500623761 0
+96C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.4fc0978e.js.map133764004501023557 0
+92C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.57ed225f.js133765654106474961 0
+92C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.5cab02cc.js133765658698859638 0
+96C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.5cab02cc.js.map133765658699179637 0
+92C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.6285c7cd.js133765657454757484 0
+96C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.6285c7cd.js.map133765657454877466 0
+92C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.64c2e20a.js133765655367018702 0
+96C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.64c2e20a.js.map133765655367148720 0
+92C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.65c37879.js133765661469488745 0
+96C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.65c37879.js.map133765661469608744 0
+92C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.7ac96b08.js133764951987076945 0
 92C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.7c0ccee6.js133764000096013973 0
 96C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.7c0ccee6.js.map133764000096164006 0
+96C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.8a209b62.js.map133765653343135437 0
+96C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.a64a17a9.js.map133765654106848587 0
+92C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.e6a3c58f.js133765665012175423 0
+96C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.e8527940.js.map133765659178113427 0
+92C:\Users\avsaa\OneDrive\Desktop\namaste-react-assignment\Assignment 2\dist\index.fbfb3a2a.js133765659177993429 0
