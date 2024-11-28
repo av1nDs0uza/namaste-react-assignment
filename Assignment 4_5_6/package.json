@@ -1,0 +1,27 @@
+{
+  "name": "assignment-4_5_6",
+  "version": "1.0.0",
+  "description": "namaste react assignment swiggy clone",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "keywords": [
+    "namaste",
+    "react",
+    "reactjs",
+    "assignment",
+    "swiggy-clone"
+  ],
+  "author": "Avin Dsouza",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.13.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
