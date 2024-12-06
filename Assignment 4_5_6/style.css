@@ -74,7 +74,7 @@
     padding: 20px;
     width: 250px; /* Adjust the width to make the cards larger and consistent */
     height: 300px; /* Remove fixed height to let content adjust dynamically */
-    background-color: #f9f9f9; /* Add a subtle background color */
+    background-color: lightgray; /* Add a subtle background color */
     border-radius: 8px; /* Add rounded corners for better appearance */
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Add shadow for depth */
     transition: transform 0.3s, box-shadow 0.3s; /* Add smooth hover effect */
@@ -101,6 +101,86 @@
     box-shadow: 6px 6px 0px #333333;
 }
 .login:active{
+    transform: translate(3px,3px);
+    box-shadow: 2px 2px 0px #333333
+}
+.filter{
+    display:flex;
+    justify-content:space-around;
+    
+}
+.filter-btn{
+    font-size: 15px;
+    padding: 10px;
+    margin: 10px;
+    border: 3px solid #333333;
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 4px 4px 0px #333333;
+    transition: transform 0.1s ease;
+}
+.filter-btn:hover {
+    transform:translate(-3px,-3px);
+    box-shadow: 6px 6px 0px #333333;
+
+}
+
+.filter-btn:active {
+    transform: translate(3px,3px);
+    box-shadow: 2px 2px 0px #333333
+}
+
+.reset{
+    font-size: 15px;
+    padding: 10px;
+    margin: 10px;
+    border: 3px solid #333333;
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 4px 4px 0px #333333;
+    transition: transform 0.1s ease;
+}
+.reset:hover {
+    transform:translate(-3px,-3px);
+    box-shadow: 6px 6px 0px #333333;
+
+}
+
+.reset:active {
+    transform: translate(3px,3px);
+    box-shadow: 2px 2px 0px #333333
+}
+.search-box{
+    font-size: 15px;
+    padding: 10px;
+    margin: 10px;
+    border: 3px solid #333333;
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 4px 4px 0px #333333;
+    transition: transform 0.1s ease;
+}
+.search-btn{
+    font-size: 15px;
+    padding: 10px;
+    margin: 10px;
+    border: 3px solid #333333;
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 4px 4px 0px #333333;
+    transition: transform 0.1s ease;
+}
+.search-btn:hover {
+    transform:translate(-3px,-3px);
+    box-shadow: 6px 6px 0px #333333;
+
+}
+
+.search-btn:active {
     transform: translate(3px,3px);
     box-shadow: 2px 2px 0px #333333
 }
