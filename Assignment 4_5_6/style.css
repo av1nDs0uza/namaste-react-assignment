@@ -1,186 +1,186 @@
-
-.header{
+/* Header Styles */
+.header {
     display: flex;
     justify-content: space-between;
-    border: 1px solid #333333;
-    
+    border: 1px solid #333;
 }
-.logo{
+
+/* Logo Design */
+.logo {
     width: 100px;
     height: 100px;
-    
-    border: 3px solid #333333;
+    border: 3px solid #333;
     border-radius: 8px;
-    box-shadow: 4px 4px 0px #333333;
+    box-shadow: 4px 4px 0 #333;
     cursor: pointer;
     transition: background-color 0.2s ease;
 }
+
+/* Navigation Items */
 .nav-items > ul {
     display: flex;
-    padding: 0px 20px;
-    list-style-type:none;
+    padding: 0 20px;
+    list-style: none;
 }
-.nav-items > ul > li{
+
+.nav-items > ul > li {
     font-size: 15px;
     padding: 10px;
     margin: 10px;
-    border: 3px solid #333333;
+    border: 3px solid #333;
     border-radius: 8px;
     font-weight: bold;
     cursor: pointer;
-    box-shadow: 4px 4px 0px #333333;
+    box-shadow: 4px 4px 0 #333;
     transition: transform 0.1s ease;
 }
-.nav-items > ul > li:hover {
-    transform:translate(-3px,-3px);
-    box-shadow: 6px 6px 0px #333333;
 
+.nav-items > ul > li:hover {
+    transform: translate(-3px, -3px);
+    box-shadow: 6px 6px 0 #333;
 }
 
 .nav-items > ul > li:active {
-    transform: translate(3px,3px);
-    box-shadow: 2px 2px 0px #333333
+    transform: translate(3px, 3px);
+    box-shadow: 2px 2px 0 #333;
 }
+
+/* Restaurant Card Design */
 .res-card {
     margin: 15px;
     padding: 20px;
-    width: 250px; /* Adjust the width to make the cards larger and consistent */
-    height: auto; /* Remove fixed height to let content adjust dynamically */
-    background-color: #f9f9f9; /* Add a subtle background color */
-    border-radius: 8px; /* Add rounded corners for better appearance */
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Add shadow for depth */
-    transition: transform 0.3s, box-shadow 0.3s; /* Add smooth hover effect */
+    width: 250px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
 }
+
 .res-card:hover {
     cursor: pointer;
-    transform: scale(1.05); /* Slightly increase the size on hover */
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Intensify the shadow on hover */
+    transform: scale(1.05);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
-.search{
-    padding: 10px;
-}
+
+/* Image within Restaurant Card */
 .res-logo {
     width: 100%;
-    height: 150px; /* Set a fixed height for consistency */
-    object-fit: cover; /* Ensure the image scales proportionally without distortion */
-    border-radius: 8px; /* Match the card's border radius */
+    height: 150px;
+    object-fit: cover;
+    border-radius: 8px;
 }
- .res-container{
+
+/* Flexbox for Multiple Cards */
+.res-container {
     display: flex;
     flex-wrap: wrap;
- }
- .shimmer-card {
+}
+
+/* Shimmer Loading Placeholder */
+.shimmer-card {
     margin: 15px;
     padding: 20px;
-    width: 250px; /* Adjust the width to make the cards larger and consistent */
-    height: 300px; /* Remove fixed height to let content adjust dynamically */
-    background-color: lightgray; /* Add a subtle background color */
-    border-radius: 8px; /* Add rounded corners for better appearance */
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Add shadow for depth */
-    transition: transform 0.3s, box-shadow 0.3s; /* Add smooth hover effect */
+    width: 250px;
+    height: 300px;
+    background-color: lightgray;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
 }
-.shimmer-container{
-    
+
+.shimmer-container {
     display: flex;
     flex-wrap: wrap;
 }
 
-.login{
+/* Buttons: General Style */
+.login, .filter-btn, .reset, .search-box, .search-btn {
     font-size: 15px;
     padding: 10px;
     margin: 10px;
-    border: 3px solid #333333;
+    border: 3px solid #333;
     border-radius: 8px;
     font-weight: bold;
     cursor: pointer;
-    box-shadow: 4px 4px 0px #333333;
+    box-shadow: 4px 4px 0 #333;
     transition: transform 0.1s ease;
 }
-.login:hover{
-    transform:translate(-3px,-3px);
-    box-shadow: 6px 6px 0px #333333;
+
+/* Button Hover Effects */
+.login:hover, .filter-btn:hover, .reset:hover, .search-btn:hover {
+    transform: translate(-3px, -3px);
+    box-shadow: 6px 6px 0 #333;
 }
-.login:active{
-    transform: translate(3px,3px);
-    box-shadow: 2px 2px 0px #333333
+
+/* Button Active Effects */
+.login:active, .filter-btn:active, .reset:active, .search-btn:active {
+    transform: translate(3px, 3px);
+    box-shadow: 2px 2px 0 #333;
 }
-.filter{
-    display:flex;
-    justify-content:space-around;
-    
-}
-.filter-btn{
-    font-size: 15px;
+
+/* Search Container */
+.search {
     padding: 10px;
-    margin: 10px;
-    border: 3px solid #333333;
+}
+
+/* Filter Section */
+.filter {
+    display: flex;
+    justify-content: space-around;
+}
+/* Menu Container */
+.menu {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    max-width: 800px; /* Adjust the width as needed */
+    margin: 0 auto;   /* Centers the menu with spacing on both sides */
+    background-color: #fdfdfd; /* Optional: Add a background color */
+    border-radius: 10px; /* Optional: Rounded corners */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Optional: Add a subtle shadow */
+}
+
+/* Image Styles */
+.menu img {
+    width: 100%;
+    max-width: 400px;
     border-radius: 8px;
-    font-weight: bold;
+    margin: 10px 0;
+}
+
+/* Headers in Menu */
+.menu h1, .menu h2, .menu h3 {
+    color: #333;
+    text-decoration: underline;
+}
+
+/* List Styles */
+.menu ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* Menu Items */
+.menu li {
+    margin: 15px 0; /* Adds spacing between items */
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 30px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+    background-color: #fff; /* White background for items */
+}
+
+.menu li:hover {
     cursor: pointer;
-    box-shadow: 4px 4px 0px #333333;
-    transition: transform 0.1s ease;
-}
-.filter-btn:hover {
-    transform:translate(-3px,-3px);
-    box-shadow: 6px 6px 0px #333333;
-
+    transform: scale(1.05);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
 
-.filter-btn:active {
-    transform: translate(3px,3px);
-    box-shadow: 2px 2px 0px #333333
-}
-
-.reset{
-    font-size: 15px;
-    padding: 10px;
-    margin: 10px;
-    border: 3px solid #333333;
-    border-radius: 8px;
-    font-weight: bold;
-    cursor: pointer;
-    box-shadow: 4px 4px 0px #333333;
-    transition: transform 0.1s ease;
-}
-.reset:hover {
-    transform:translate(-3px,-3px);
-    box-shadow: 6px 6px 0px #333333;
-
-}
-
-.reset:active {
-    transform: translate(3px,3px);
-    box-shadow: 2px 2px 0px #333333
-}
-.search-box{
-    font-size: 15px;
-    padding: 10px;
-    margin: 10px;
-    border: 3px solid #333333;
-    border-radius: 8px;
-    font-weight: bold;
-    cursor: pointer;
-    box-shadow: 4px 4px 0px #333333;
-    transition: transform 0.1s ease;
-}
-.search-btn{
-    font-size: 15px;
-    padding: 10px;
-    margin: 10px;
-    border: 3px solid #333333;
-    border-radius: 8px;
-    font-weight: bold;
-    cursor: pointer;
-    box-shadow: 4px 4px 0px #333333;
-    transition: transform 0.1s ease;
-}
-.search-btn:hover {
-    transform:translate(-3px,-3px);
-    box-shadow: 6px 6px 0px #333333;
-
-}
-
-.search-btn:active {
-    transform: translate(3px,3px);
-    box-shadow: 2px 2px 0px #333333
+/* Item Details */
+.menu li span {
+    display: block;
+    margin-top: 8px;
+    font-size: 14px;
+    color: #555;
 }

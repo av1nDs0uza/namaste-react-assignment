@@ -1,8 +1,12 @@
 import { LOGO_URL } from "../utils/constant";
-import { useState } from "react";
+import { useState ,useEffect } from "react";
 import { Link } from "react-router-dom";
 const Header = () => {
     const [btnNameReact,setBtnNameReact] = useState("Login"); 
+
+    useEffect(()=>{
+        console.log("useEffect called");
+    },[btnNameReact]);
     return(
 
         <div className="header">
